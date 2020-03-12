@@ -1,2 +1,3 @@
-# magnificent-library
-study
+Homework
+Web/Design
+Ruchyov Artem
